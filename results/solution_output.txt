@@ -1,0 +1,2 @@
+Optimal Path: DC-NewYork -> Rtr-London -> Rtr-Frankfurt -> DC-Tokyo
+Total Latency: 225 ms
