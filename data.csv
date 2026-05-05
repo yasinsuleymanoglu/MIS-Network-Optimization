@@ -1,0 +1,11 @@
+source,target,latency_ms
+DC-NewYork,Rtr-London,70
+DC-NewYork,Rtr-Paris,80
+Rtr-London,Rtr-Frankfurt,15
+Rtr-London,Sw-Amsterdam,10
+Rtr-Paris,Rtr-Frankfurt,20
+Rtr-Paris,Sw-Madrid,25
+Sw-Amsterdam,Rtr-Frankfurt,8
+Sw-Amsterdam,DC-Tokyo,150
+Rtr-Frankfurt,DC-Tokyo,140
+Sw-Madrid,DC-Tokyo,160
