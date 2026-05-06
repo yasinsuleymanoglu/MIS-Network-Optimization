@@ -1,0 +1,27 @@
+# ==========================================
+# MIS Network Optimization Project .gitignore
+# ==========================================
+
+# 1. İşletim Sistemi Kalıntıları (Mac & Windows)
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+ehthumbs.db
+$RECYCLE.BIN/
+
+# 2. Python Derleme ve Önbellek Dosyaları (En Önemlisi)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 3. Sanal Ortamlar (Kütüphanelerin github'a gitmesini engeller)
+venv/
+.venv/
+env/
+.env/
+
+# 4. Jupyter Notebook Gizli Dosyaları
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
